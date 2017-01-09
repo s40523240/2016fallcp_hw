@@ -470,10 +470,14 @@ background(100, 100, w, h, 5, 19, ctx)
       #  ball(x, y, w, h, i+1, j+1, 'black', ctx)
 #ball(x, y, w, h, 1, 4, 'red', ctx)
 #ball(300, 300, 30, 20, 1, 1, 9, 'black', ctx)
-&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2016-11-27T12:00:00+08:00</published><updated>2016-11-27T12:00:00+08:00</updated><author><name>40523240</name></author><id>tag:,2016-11-27:./w11.html</id><summary type="html">&lt;p&gt;畫線練習&lt;/p&gt;
+&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>2016fallcp期末考週</title><link href="./2016fallcpqi-mo-kao-zhou.html" rel="alternate"></link><published>2016-11-27T12:00:00+08:00</published><updated>2016-11-27T12:00:00+08:00</updated><author><name>40523240</name></author><id>tag:,2016-11-27:./2016fallcpqi-mo-kao-zhou.html</id><summary type="html">&lt;p&gt;畫線練習&lt;/p&gt;
 
 
-&lt;p&gt;畫線練習&lt;/p&gt;
+&lt;p&gt;畫線練習
+W17週心得與程式範例&lt;/p&gt;
+&lt;p&gt;心得:新年快樂&lt;/p&gt;
+&lt;p&gt;W16週心得與程式範例&lt;/p&gt;
+&lt;p&gt;這週教的東西是用程式寫出文字小遊戲,要弄出來實在很不容易&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
@@ -517,7 +521,9 @@ def guess(ev):
 document["but3"].bind("click", guess)
 &lt;/script&gt;
 
-&lt;p&gt;&lt;button id="but3"&gt;玩猜數字遊戲&lt;/button&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2016-11-27T12:00:00+08:00</published><updated>2016-11-27T12:00:00+08:00</updated><author><name>40523240</name></author><id>tag:,2016-11-27:./w11.html</id><summary type="html">&lt;p&gt;畫線練習&lt;/p&gt;
+&lt;p&gt;&lt;button id="but3"&gt;玩猜數字遊戲&lt;/button&gt;
+W15週心得與程式範例&lt;/p&gt;
+&lt;p&gt;心得: 這週教的東西很不容易,不熟悉的人可能做不太出來&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2016-11-27T12:00:00+08:00</published><updated>2016-11-27T12:00:00+08:00</updated><author><name>40523240</name></author><id>tag:,2016-11-27:./w11.html</id><summary type="html">&lt;p&gt;畫線練習&lt;/p&gt;
 
 
 &lt;p&gt;畫線練習&lt;/p&gt;
